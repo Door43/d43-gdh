@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gdh:home|Door43 (gdh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gdh|d43-gdh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gdh/archive/master.zip|d43-gdh.zip]]
+
+**Recent Changes**
+{{changes>ns = gdh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gdh|Ethnologue data]]
+
